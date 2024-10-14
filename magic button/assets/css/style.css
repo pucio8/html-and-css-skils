@@ -110,7 +110,7 @@ a {
 .button img{
     position: absolute;
     opacity: 0;
-    pointer-events: none;
+    /* pointer-events: none; */
     transition: transform .5s, opacity .5s;
 }
 
