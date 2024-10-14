@@ -3,7 +3,7 @@
 
 /* @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap'); */
 
-/*=============== VARIABLES CSS ===============*/
+/*============== VARIABLES CSS ==============*/
 :root {
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
@@ -110,7 +110,7 @@ a {
 .button img{
     position: absolute;
     opacity: 0;
-    /* pointer-events: none; */
+    pointer-events: none;
     transition: transform .5s, opacity .5s;
 }
 
